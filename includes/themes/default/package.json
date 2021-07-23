@@ -1,0 +1,14 @@
+{
+  "name": "Default Theme",
+  "description": "Default CMS theme",
+  "version": "1.0.0",
+  "main": "init.php",
+  "keywords": [],
+  "author": "CMS boi",
+  "license": "CC4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashleygwilliams/my_package.git"
+  },
+  "homepage": "https://github.com/ashleygwilliams/my_package"
+}
